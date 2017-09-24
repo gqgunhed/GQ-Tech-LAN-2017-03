@@ -19,5 +19,11 @@ Das ist eine vorläufige Aufstellung von Themen die wir angehen könnten. Wie im
 - Was sind so Dinge wie `pylint`, `pyflakes`, `pep8`? Und warum sollte ich so was verwenden?
 - Unit testing mit py.test, siehe https://docs.pytest.org/en/latest/.
 
+## OPNsense
+- OPNsense Firewall per serieller Verbindung auf einem pc-engines 2D13 System installieren
+
+## Security Onion
+- https://securityonion.net/ testen
+
 # Infrastruktur
 Wie beim letzten Mal würde ich gerne den Fokus auf saubere Sytem gestützte Zusammenarbeit legen = GitLab nutzen.
